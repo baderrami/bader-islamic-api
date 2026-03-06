@@ -3,175 +3,197 @@
     {
       "slug": "ar-safwat-al-tafasir",
       "name": "صفوة التفاسير",
+      "nameEn": "Safwat al-Tafasir",
       "author": "محمد علي الصابوني",
       "language": "ar"
     },
     {
       "slug": "ar-tafseer-al-qurtubi",
-      "name": "Tafseer Al Qurtubi",
-      "author": "Qurtubi",
+      "name": "تفسير القرطبي",
+      "nameEn": "Tafsir Al-Qurtubi",
+      "author": "أبو عبد الله محمد بن أحمد القرطبي",
       "language": "ar"
     },
     {
       "slug": "ar-tafseer-al-saddi",
-      "name": "Tafseer Al Saddi",
-      "author": "Saddi",
+      "name": "تفسير السعدي",
+      "nameEn": "Tafsir Al-Sa'di",
+      "author": "عبد الرحمن بن ناصر السعدي",
       "language": "ar"
     },
     {
       "slug": "ar-tafseer-tanwir-al-miqbas",
-      "name": "Tafseer Tanwir al-Miqbas",
-      "author": "Tanweer",
+      "name": "تنوير المقباس من تفسير ابن عباس",
+      "nameEn": "Tanwir al-Miqbas min Tafsir Ibn Abbas",
+      "author": "الفيروزآبادي",
       "language": "ar"
     },
     {
       "slug": "ar-tafsir-al-baghawi",
-      "name": "Tafseer Al-Baghawi",
-      "author": "Baghawy",
+      "name": "تفسير البغوي",
+      "nameEn": "Tafsir Al-Baghawi",
+      "author": "أبو محمد الحسين بن مسعود البغوي",
       "language": "ar"
     },
     {
       "slug": "ar-tafsir-al-tabari",
-      "name": "Tafsir al-Tabari",
-      "author": "Tabari",
+      "name": "تفسير الطبري",
+      "nameEn": "Tafsir Al-Tabari",
+      "author": "أبو جعفر محمد بن جرير الطبري",
       "language": "ar"
     },
     {
       "slug": "ar-tafsir-al-wasit",
-      "name": "Tafsir Al Wasit",
-      "author": "Waseet",
+      "name": "التفسير الوسيط",
+      "nameEn": "Al-Tafsir Al-Wasit",
+      "author": "محمد سيد طنطاوي",
       "language": "ar"
     },
     {
       "slug": "ar-tafsir-ibn-kathir",
-      "name": "Tafsir Ibn Kathir",
-      "author": "Hafiz Ibn Kathir",
+      "name": "تفسير ابن كثير",
+      "nameEn": "Tafsir Ibn Kathir",
+      "author": "أبو الفداء إسماعيل بن عمر بن كثير",
       "language": "ar"
     },
     {
       "slug": "ar-tafsir-muyassar",
-      "name": "Tafsir Muyassar",
-      "author": "المیسر",
+      "name": "التفسير الميسر",
+      "nameEn": "Al-Tafsir Al-Muyassar",
+      "author": "مجمع الملك فهد لطباعة المصحف الشريف",
       "language": "ar"
     },
     {
       "slug": "bn-tafisr-fathul-majid",
-      "name": "Tafsir Fathul Majid",
+      "name": "তাফসীর ফাতহুল মাজীদ",
+      "nameEn": "Tafsir Fathul Majid",
       "author": "AbdulRahman Bin Hasan Al-Alshaikh",
       "language": "bn"
     },
     {
       "slug": "bn-tafseer-ibn-e-kaseer",
-      "name": "Tafseer ibn Kathir",
+      "name": "তাফসীর ইবনে কাসীর",
+      "nameEn": "Tafsir Ibn Kathir",
       "author": "Tawheed Publication",
       "language": "bn"
     },
     {
       "slug": "bn-tafsir-abu-bakr-zakaria",
-      "name": "Tafsir Abu Bakr Zakaria",
+      "name": "তাফসীর আবু বকর জাকারিয়া",
+      "nameEn": "Tafsir Abu Bakr Zakaria",
       "author": "King Fahd Quran Printing Complex",
       "language": "bn"
     },
     {
       "slug": "bn-tafsir-ahsanul-bayaan",
-      "name": "Tafsir Ahsanul Bayaan",
+      "name": "তাফসীর আহসানুল বায়ান",
+      "nameEn": "Tafsir Ahsanul Bayaan",
       "author": "Bayaan Foundation",
       "language": "bn"
     },
     {
       "slug": "en-al-jalalayn",
       "name": "Al-Jalalayn",
-      "author": "Al-Jalalayn",
+      "nameEn": "Al-Jalalayn",
+      "author": "Jalal ad-Din al-Mahalli & Jalal ad-Din as-Suyuti",
       "language": "en"
     },
     {
       "slug": "en-al-qushairi-tafsir",
-      "name": "Al Qushairi Tafsir",
-      "author": "Al Qushairi Tafsir",
+      "name": "Al-Qushairi Tafsir",
+      "nameEn": "Al-Qushairi Tafsir",
+      "author": "Abu al-Qasim al-Qushairi",
       "language": "en"
     },
     {
       "slug": "en-asbab-al-nuzul-by-al-wahidi",
       "name": "Asbab Al-Nuzul by Al-Wahidi",
-      "author": "Asbab Al-Nuzul by Al-Wahidi",
+      "nameEn": "Asbab Al-Nuzul",
+      "author": "Ali ibn Ahmad al-Wahidi",
       "language": "en"
     },
     {
       "slug": "en-kashani-tafsir",
       "name": "Kashani Tafsir",
-      "author": "Kashani Tafsir",
+      "nameEn": "Kashani Tafsir",
+      "author": "Abd al-Razzaq al-Kashani",
       "language": "en"
     },
     {
       "slug": "en-kashf-al-asrar-tafsir",
       "name": "Kashf Al-Asrar Tafsir",
-      "author": "Kashf Al-Asrar Tafsir",
+      "nameEn": "Kashf Al-Asrar Tafsir",
+      "author": "Rashid al-Din Maybudi",
       "language": "en"
     },
     {
       "slug": "en-tafisr-ibn-kathir",
       "name": "Tafsir Ibn Kathir (abridged)",
+      "nameEn": "Tafsir Ibn Kathir (abridged)",
       "author": "Hafiz Ibn Kathir",
       "language": "en"
     },
     {
       "slug": "en-tafsir-al-tustari",
       "name": "Tafsir al-Tustari",
-      "author": "Tafsir al-Tustari",
+      "nameEn": "Tafsir al-Tustari",
+      "author": "Sahl al-Tustari",
       "language": "en"
     },
     {
       "slug": "en-tafsir-ibn-abbas",
-      "name": "Tanwîr al-Miqbâs min Tafsîr Ibn 'Abbâs",
-      "author": "Tanwîr al-Miqbâs min Tafsîr Ibn 'Abbâs",
+      "name": "Tanwir al-Miqbas min Tafsir Ibn Abbas",
+      "nameEn": "Tanwir al-Miqbas min Tafsir Ibn Abbas",
+      "author": "Al-Firuzabadi",
       "language": "en"
     },
     {
       "slug": "en-tafsir-maarif-ul-quran",
       "name": "Maarif-ul-Quran",
+      "nameEn": "Maarif-ul-Quran",
       "author": "Mufti Muhammad Shafi",
       "language": "en"
     },
     {
       "slug": "en-tazkirul-quran",
       "name": "Tazkirul Quran",
+      "nameEn": "Tazkirul Quran",
       "author": "Maulana Wahid Uddin Khan",
       "language": "en"
     },
     {
-      "slug": "kashf-al-asrar-tafsir",
-      "name": "Kashf Al-Asrar Tafsir",
-      "author": "Kashf Al-Asrar Tafsir",
-      "language": "en"
-    },
-    {
       "slug": "kurd-tafsir-rebar",
-      "name": "Rebar Kurdish Tafsir",
+      "name": "تەفسیری ڕێبەر",
+      "nameEn": "Rebar Kurdish Tafsir",
       "author": "Rebar Kurdish Tafsir",
       "language": "ku"
     },
     {
       "slug": "ru-tafseer-al-saddi",
-      "name": "Tafseer Al Saddi",
-      "author": "Saddi",
+      "name": "Тафсир Ас-Саади",
+      "nameEn": "Tafsir Al-Sa'di",
+      "author": "Абдурахман ибн Насир Ас-Саади",
       "language": "ru"
     },
     {
       "slug": "ur-tafseer-ibn-e-kaseer",
-      "name": "Tafsir Ibn Kathir",
-      "author": "Hafiz Ibn Kathir",
+      "name": "تفسیر ابن کثیر",
+      "nameEn": "Tafsir Ibn Kathir",
+      "author": "حافظ ابن کثیر",
       "language": "ur"
     },
     {
       "slug": "ur-tafsir-bayan-ul-quran",
-      "name": "Tafsir Bayan ul Quran",
-      "author": "Dr. Israr Ahmad",
+      "name": "تفسیر بیان القرآن",
+      "nameEn": "Tafsir Bayan ul Quran",
+      "author": "ڈاکٹر اسرار احمد",
       "language": "ur"
     },
     {
       "slug": "ur-tazkirul-quran",
-      "name": "Tazkirul Quran",
-      "author": "Maulana Wahid Uddin Khan",
+      "name": "تذکیر القرآن",
+      "nameEn": "Tazkirul Quran",
+      "author": "مولانا وحید الدین خان",
       "language": "ur"
     }
   ]

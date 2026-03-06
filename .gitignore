@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .env
+node_modules/
+scripts/output/
+scripts/tmp/
+scripts/node_modules/
+.idea/
